@@ -7,7 +7,7 @@ Solve crosswords that have been created with www.crossword-compiler.com
 ## Try it out
 
 1. Copy the minified source code,
-2. Open up a your crossword website ([Example](http://v.postimees.ee/ristsona/Veebiristsonad/Veebiristsona106-14012016/Veebiristsona106-14012016.html)
+2. open up a your crossword website ([Example](http://v.postimees.ee/ristsona/Veebiristsonad/Veebiristsona106-14012016/Veebiristsona106-14012016.html))
 3. paste the code to the Chrome Dev tools Console and
 4. check out the cool process
 
