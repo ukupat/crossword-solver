@@ -2,7 +2,7 @@ function CrossWordSolver() {
     'use strict';
 
     let squares = $('.GridSquare.Let');
-    let alphabet = 'abcdefghijklmnopqrstuvwxyz'.toUpperCase().split('');
+    let alphabet = 'abcdefghijklmnopqrsštuvwxyzžõüäö'.toUpperCase().split('');
     var a = 0;
     var intervalId;
 
